@@ -2,7 +2,7 @@
 *Automated Listing Articles Excel-VB and SAP GUI Scripting Tool.*
 
 <p align="center">
-  <img align="center" src="https://miro.medium.com/max/875/1*b_NPovHRbtxvzncpZjxmAg.png" style="width: 75%; height: 75%"/>
+  <img align="center" src="https://miro.medium.com/max/875/1*dWGaJwzyTD4La3nApuUn3A.png" style="width: 75%; height: 75%"/>
 </p>
 
 In SAP Retail, the **Material listing** is the operation that links one article to one assortment.
