@@ -17,6 +17,12 @@ In SAP Retail, the **Material listing** is the operation that links one article 
 - Listing 145654789 in WH02: this reference can be received in this DC
 - Listing 145654789 in ST04: this reference can be received and sold in ST04
 
+### Youtube Video
+Find in the link below a short animated explained video to understand the concept behind this solution
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=yodNWnf7PQ0"><img src="https://i.ytimg.com/an_webp/yodNWnf7PQ0/mqdefault_6s.webp?du=3000&sqp=CPqChZEG&rs=AOn4CLChZfaefL3l0qWnbxr4bAm42jaMzQ" alt="Explainer Video Link"></a>
+</div>
+
 ### Medium Article
 In this [Medium Article](https://medium.datadriveninvestor.com/sap-automation-for-retail-using-vb-and-python-part-2-listing-740c6cb690c1), we will build a VBA script to
 automate product listing in SAP.
