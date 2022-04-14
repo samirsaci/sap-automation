@@ -23,8 +23,8 @@ Find in the link below a short animated explained video to understand the concep
   <a href="https://www.youtube.com/watch?v=yodNWnf7PQ0"><img src="https://i.ytimg.com/an_webp/yodNWnf7PQ0/mqdefault_6s.webp?du=3000&sqp=CPqChZEG&rs=AOn4CLChZfaefL3l0qWnbxr4bAm42jaMzQ" alt="Explainer Video Link"></a>
 </div>
 
-### Medium Article
-In this [Medium Article](https://medium.datadriveninvestor.com/sap-automation-for-retail-using-vb-and-python-part-2-listing-740c6cb690c1), we will build a VBA script to
+### Article
+In this [Article](https://www.samirsaci.com/sap-automation-of-product-listing-for-retail/), we will build a VBA script to
 automate product listing in SAP.
 
 ## Code
