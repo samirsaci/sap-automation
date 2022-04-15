@@ -20,7 +20,7 @@ In SAP Retail, the **Material listing** is the operation that links one article 
 ### Youtube Video
 Find in the link below a short animated explained video to understand the concept behind this solution
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=yodNWnf7PQ0"><img src="https://i.ytimg.com/an_webp/yodNWnf7PQ0/mqdefault_6s.webp?du=3000&sqp=CPqChZEG&rs=AOn4CLChZfaefL3l0qWnbxr4bAm42jaMzQ" alt="Explainer Video Link"></a>
+  <a href="https://www.youtube.com/watch?v=yodNWnf7PQ0"><img src="https://github.com/samirsaci/sap-automation/blob/main/thumbnail.webp" alt="Explainer Video Link"></a>
 </div>
 
 ### Article
